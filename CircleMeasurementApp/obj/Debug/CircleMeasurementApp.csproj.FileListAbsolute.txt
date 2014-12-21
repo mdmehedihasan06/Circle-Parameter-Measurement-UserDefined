@@ -1,0 +1,9 @@
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\bin\Debug\CircleMeasurementApp.exe.config
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\bin\Debug\CircleMeasurementApp.exe
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\bin\Debug\CircleMeasurementApp.pdb
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\obj\Debug\CircleMeasurementApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\obj\Debug\CircleMeasurementApp.CircleParameterUI.resources
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\obj\Debug\CircleMeasurementApp.Properties.Resources.resources
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\obj\Debug\CircleMeasurementApp.csproj.GenerateResource.Cache
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\obj\Debug\CircleMeasurementApp.exe
+E:\Visual Studio Work\21.12.14\CircleMeasurementApp\CircleMeasurementApp\obj\Debug\CircleMeasurementApp.pdb
